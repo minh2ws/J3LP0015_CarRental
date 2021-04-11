@@ -1,0 +1,12 @@
+home
+home-page
+logout
+search-car
+load-image
+view-detail
+car-detail-page
+order-history
+order-history-page
+search-order
+delete-order
+send-feedback

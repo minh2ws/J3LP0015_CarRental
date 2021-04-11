@@ -1,0 +1,79 @@
+.bg-custom {
+    background-image: radial-gradient(circle, rgb(255, 136, 0), rgba(217, 255, 0, 0.924), rgb(1, 255, 221));
+}
+
+html, body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.navbar-brand {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 15px;
+}
+
+.welcome-user {
+    font-weight: bold;
+    color: white;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.card-footer {
+    background-color: white !important;
+}
+
+.bg-warning {
+    background-color: blue !important;
+}
+
+.jumbotron {
+    background-color: aquamarine;
+}
+
+.name-shop {
+    color: crimson;
+}
+
+.img-big-wrap img {
+    height: auto;
+    width: 250px;
+    display: inline-block;
+    cursor: zoom-in;
+}
+
+.img-small-wrap .item-gallery {
+    width: 60px;
+    height: 60px;
+    border: 1px solid #ddd;
+    margin: 7px 2px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.img-small-wrap {
+    text-align: center;
+}
+
+.img-small-wrap img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    cursor: zoom-in;
+}
+
+.img-big-wrap img {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.img {
+    height: 17.5rem;
+}

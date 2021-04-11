@@ -1,0 +1,13 @@
+home
+home-page
+login
+login-page
+invalid-page
+register
+register-page
+register-page-error
+load-image
+search-car
+view-detail
+car-detail-page
+rente-car
